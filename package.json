@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@adobe/adobe-client-data-layer": "^3.0.1",
-    "@adobe/magento-storefront-event-collector": "^1.15.0",
+    "@adobe/magento-storefront-event-collector": "^0.0.5",
     "@adobe/magento-storefront-events-sdk": "^1.15.0",
     "@dropins/storefront-account": "~3.3.0",
     "@dropins/storefront-auth": "~3.2.0",
