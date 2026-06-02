@@ -1,0 +1,32 @@
+{
+  "public": {
+    "default": {
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/SnLAVbfNUUivbBNs9JwvfB/graphql",
+      "headers": {
+        "cs": {
+          "AC-View-ID": "c2f5ea23-1e32-4224-b7e6-78fda9449f49",
+          "AC-Price-Book-ID": "global_visibility"
+        }
+      },
+      "commerce-b2b-enabled": false,
+      "commerce-companies-enabled": false,
+      "commerce-assets-enabled": true,
+      "adobe-commerce-optimizer": true,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "SnLAVbfNUUivbBNs9JwvfB",
+        "locale": "en-US",
+        "store-url": "https://main--huge-aco-demo--herodigital.aem.page/",
+        "store-view-currency-code": "en-US",
+        "storefront-template": "Other",
+        "view-id": "c2f5ea23-1e32-4224-b7e6-78fda9449f49"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    }
+  }
+}
